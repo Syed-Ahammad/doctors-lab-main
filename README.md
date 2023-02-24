@@ -1,4 +1,4 @@
-# doctors-lab-main
+# doctors-portal-main
 
 ## live link website [https://doctors-portal-a2a44.web.app/]
 
