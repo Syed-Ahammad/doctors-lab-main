@@ -2,7 +2,9 @@
 
 A full-stack dental clinic appointment booking and management system. Patients can browse available slots, book appointments by specialty, and pay online. Admins manage doctors, users, and appointment options through a dedicated dashboard.
 
-### Live Server
+### Live Links
+> **Client:** [https://doctors-portal-a2a44.web.app](https://doctors-portal-a2a44.web.app)
+> 
 > **API Base URL:** [https://doctors-lab-server-bice.vercel.app/](https://doctors-lab-server-bice.vercel.app/)
 
 ### Tools:
